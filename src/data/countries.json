@@ -1,0 +1,10 @@
+[
+  { "code": "IN", "name": "India", "latitude": 20.5937, "longitude": 78.9629, "zoom": 5, "radiusKm": 1200 },
+  { "code": "AU", "name": "Australia", "latitude": -25.2744, "longitude": 133.7751, "zoom": 4, "radiusKm": 1500 },
+  { "code": "US", "name": "United States", "latitude": 39.8283, "longitude": -98.5795, "zoom": 4, "radiusKm": 1800 },
+  { "code": "GB", "name": "United Kingdom", "latitude": 54.0, "longitude": -2.0, "zoom": 6, "radiusKm": 500 },
+  { "code": "AE", "name": "United Arab Emirates", "latitude": 24.4539, "longitude": 54.3773, "zoom": 7, "radiusKm": 400, "labelSide": "left" },
+  { "code": "JP", "name": "Japan", "latitude": 36.2048, "longitude": 138.2529, "zoom": 5, "radiusKm": 600 },
+  { "code": "ZA", "name": "South Africa", "latitude": -30.5595, "longitude": 22.9375, "zoom": 5, "radiusKm": 900 },
+  { "code": "BR", "name": "Brazil", "latitude": -14.235, "longitude": -51.9253, "zoom": 4, "radiusKm": 1700 }
+]
